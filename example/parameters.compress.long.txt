@@ -1,0 +1,4 @@
+MinNonN	39
+MaxN	10000
+filetype	fa
+inseq_filename	LR.fa

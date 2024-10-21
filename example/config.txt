@@ -1,0 +1,2 @@
+Prefix plugins/NFilter/example/
+Plugin NFilter inputfile parameters.compress.long.txt outputfile LR.fa.
